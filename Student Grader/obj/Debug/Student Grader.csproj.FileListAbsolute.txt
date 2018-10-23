@@ -1,0 +1,12 @@
+c:\users\sadie\source\repos\Student Grader\Student Grader\bin\Debug\Student Grader.exe.config
+c:\users\sadie\source\repos\Student Grader\Student Grader\bin\Debug\Student Grader.exe
+c:\users\sadie\source\repos\Student Grader\Student Grader\bin\Debug\Student Grader.pdb
+c:\users\sadie\source\repos\Student Grader\Student Grader\obj\Debug\Student Grader.csprojAssemblyReference.cache
+c:\users\sadie\source\repos\Student Grader\Student Grader\obj\Debug\Student_Grader.Form1.resources
+c:\users\sadie\source\repos\Student Grader\Student Grader\obj\Debug\Student_Grader.Properties.Resources.resources
+c:\users\sadie\source\repos\Student Grader\Student Grader\obj\Debug\Student Grader.csproj.GenerateResource.cache
+c:\users\sadie\source\repos\Student Grader\Student Grader\obj\Debug\Student Grader.csproj.CoreCompileInputs.cache
+c:\users\sadie\source\repos\Student Grader\Student Grader\obj\Debug\Student Grader.exe
+c:\users\sadie\source\repos\Student Grader\Student Grader\obj\Debug\Student Grader.pdb
+C:\Users\Sadie\source\repos\Student Grader\Student Grader\obj\Debug\Student_Grader.studentFrm.resources
+C:\Users\Sadie\source\repos\Student Grader\Student Grader\obj\Debug\Student_Grader.AssignmentFrm.resources
